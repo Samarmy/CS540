@@ -1,0 +1,4 @@
+has wildcard1 color red
+has wildcard2 color green
+has wildcard3 color blue
+has wildcard1 location 9 9 0

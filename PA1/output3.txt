@@ -1,0 +1,2 @@
+(has block3 color red)
+(has block4 color red)

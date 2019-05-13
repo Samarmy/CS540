@@ -1,0 +1,3 @@
+(has block3 color red)
+(is block3 block4 on-top-of)
+(is block4 block5 on-top-of)

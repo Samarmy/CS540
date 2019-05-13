@@ -1,0 +1,5 @@
+(is block1 block2 side-by-side)
+(is block1 block3 side-by-side)
+(is block1 block4 side-by-side)
+(is block1 block5 side-by-side)
+(is block6 block1 on-top-of)

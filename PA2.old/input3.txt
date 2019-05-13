@@ -1,0 +1,6 @@
+has block1 color red
+has block1 location 1 1 0
+has block2 color green
+has block2 location 5 5 0
+has block3 color blue
+has block3 location 5 6 0
